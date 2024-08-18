@@ -146,7 +146,7 @@ $(document).ready(function () {
 					<ol style="padding-left: 1.5em;">
 						<li>
 							Use your file explorer to place the video file you want to use into SillyTavern's backgrounds folder:
-							<pre>.../SillyTavern/public/backgrounds/</pre>
+							<pre>.../SillyTavern/data/vdbackgrounds/</pre>
 						</li>
 						<li>
 							Place any image file with the exact same name (including the video's filename extension) plus the image files extension into the backgrounds folder.<br>
